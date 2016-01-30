@@ -1,0 +1,9 @@
+H:\Edge Hill\App Dev\theory to practice\Game\GameList\GameList\obj\x86\Debug\GameList.exe
+H:\Edge Hill\App Dev\theory to practice\Game\GameList\GameList\obj\x86\Debug\GameList.pdb
+H:\Edge Hill\App Dev\theory to practice\Game\GameList\GameList\bin\Debug\GameList.exe
+H:\Edge Hill\App Dev\theory to practice\Game\GameList\GameList\bin\Debug\GameList.pdb
+F:\Edge Hill\App Dev\theory to practice\Game\GameList\GameList\obj\x86\Debug\GameList.exe
+F:\Edge Hill\App Dev\theory to practice\Game\GameList\GameList\obj\x86\Debug\GameList.pdb
+F:\Edge Hill\App Dev\theory to practice\Game\GameList\GameList\bin\Debug\GameList.exe
+F:\Edge Hill\App Dev\theory to practice\Game\GameList\GameList\bin\Debug\GameList.pdb
+H:\Edge Hill\App Dev\theory to practice\Game\GameList\GameList\obj\x86\Debug\CluedoGame.csprojResolveAssemblyReference.cache
